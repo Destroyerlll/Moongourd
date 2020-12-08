@@ -1,9 +1,9 @@
 
 
 
-mg = liga e desliga o auto inspect
+mg = Toggle on/off (it's on by default)
 
-mg i (nickname) = inpect manual do historico mais recente 
+mg i (nickname) = inpect manual of the most recent history
 
 mg hh (nickname) = Harrowhold
 
