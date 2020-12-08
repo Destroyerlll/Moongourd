@@ -5,9 +5,6 @@
     "author": "Destroyerlll",
     "description": "Searchs on moongourd for the inspected character.",
     "version": "1",
-    "servers": ["https://raw.githubusercontent.com/Destroyerlll/Moongourd/main/"],
-    "options": {
-        "guiName": "Moongourd",
-        "cliName": "Moongourd"
-    }
+    "servers": ["https://raw.githubusercontent.com/Destroyerlll/Moongourd/master/"]
+    
 }
