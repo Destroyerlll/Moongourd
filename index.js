@@ -120,9 +120,7 @@ module.exports = function gourd(mod) {
 		mod.command.message(`mg aq (nickname) = Akalath Quarantine`)
 		mod.command.message(`mg gvhm (nickname) = Gossamer Vault Hard Mode`)
 		mod.command.message(`mg aahm (nickname) = Antaroth's Abyss Hard Mode`)
-		mod.command.message(`mg glshm (nickname) = Grotto of Lost Souls Hard Mode`)
-		
-		})
+		mod.command.message(`mg glshm (nickname) = Grotto of Lost Souls Hard Mode`)		
 		},		
 		i(name) {			
 		mod.toClient('S_SHOW_AWESOMIUMWEB_SHOP', 1, {
