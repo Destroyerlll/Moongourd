@@ -1,7 +1,7 @@
 
 
 
-mg = Toggle on/off (it's on by default)
+mg = Toggle on/off (it's off by default)
 
 mg i (nickname) = inpect manual of the most recent history
 
