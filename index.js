@@ -1,5 +1,5 @@
 module.exports = function gourd(mod) {
-	let enabled = true,
+	let enabled = false,
 		userName = "",
 		boss = "",
 		region = mod.region;
