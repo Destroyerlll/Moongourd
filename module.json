@@ -2,7 +2,7 @@
     "disableAutoUpdate": false,
     "disabled": false,
     "name": "Moongourd",
-    "author": "Destroyerlll",
+    "author": "Destroyer",
     "description": "Searchs on moongourd for the inspected character.",
     "version": "1",
     "servers": ["https://raw.githubusercontent.com/Destroyerlll/Moongourd/master/"],
