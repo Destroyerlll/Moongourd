@@ -1,4 +1,4 @@
-this mod will fetch data from the moongourd website and show it within the game.
+This mod will fetch data from the moongourd website and show it within the game.
 
 
 mg = Toggle on/off (it's off by default)
