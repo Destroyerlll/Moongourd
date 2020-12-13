@@ -1,13 +1,13 @@
 {
     "disableAutoUpdate": false,
     "disabled": false,
-    "name": "Moongourd (Just NA)",
+    "name": "Moongourd",
     "author": "Destroyer",
     "description": "Searchs on moongourd for the inspected character.",
     "version": "100.2",
     "servers": ["https://raw.githubusercontent.com/Destroyerlll/Moongourd/master/"],
     "options": {
-        "guiName": "Moongourd",
+        "guiName": "Moongourd (Just NA)",
         "cliName": "Moongourd"
     }
 }
