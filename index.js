@@ -1,26 +1,6 @@
 module.exports = function gourd(mod) {
 	let enabled = false,
-		userName = "",
-		boss = "",
-		region = mod.region;
-		
-
-	switch (region) {
-		case "na":
-			region = "/"
-			break;
-		case "eu":
-			region = "/" + region + "/"
-			break;
-		case "ru":
-			region = "/" + region + "/"
-			break;
-		default:
-			mod.warn("This region is not supported by moongourd.")
-			break;
-	}
-	
-	
+		userName = "";
 
 	mod.command.add("mg", {
 		$none() {
